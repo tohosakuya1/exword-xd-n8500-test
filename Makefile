@@ -8,7 +8,7 @@ include $(DEVKITSH4)/exword_rules
 TARGET       := xdtest
 MODNAME      := xdtest
 APPTITLE     := XD-N8500 TEST
-APPID        := XDTEST
+APPID        := XDTST
 APPMOD       := $(TARGET).d01
 
 SOURCEDIR    := src
